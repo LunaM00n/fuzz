@@ -1,1 +1,1 @@
-body{background-color:expression(alert('XSS'))}
+body{background-color:black}
