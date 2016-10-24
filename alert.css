@@ -1,1 +1,1 @@
-expression(alert('XSS'))
+.body{background-color:expression(alert('XSS'))}
